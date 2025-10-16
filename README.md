@@ -54,8 +54,13 @@
 
 ## 💻 Check out some of my repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsenjanin&repo=strand&theme=react&hide_border=true)](https://github.com/tsenjanin/strand)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsenjanin&repo=pandemic&theme=react&hide_border=true)](https://github.com/tsenjanin/pandemic)
+list coming soon
+
+<!-- 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsenjanin&repo=repo-name&theme=react&hide_border=true)](link-to-repo)
+
+-->
 
 &nbsp;
 &nbsp;
