@@ -1,13 +1,17 @@
 # Hello! <img src="https://github.com/user-attachments/assets/468f6ecb-4329-45e3-b13e-850c437dbfd6" width=30px>
 
 &nbsp;
+
+<p align=center>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Passionate+about+linux%2C;backend+systems%2C+and+learning+Rust." alt="Typing SVG" />
+</p>
 &nbsp;
 
 ## 🧑🏻‍💻 Whoami
 
 <p align=center>
   <samp>
-  I'm a backend developer currently working on **banking and financial** projects using **Java and Spring Boot**. Java is generally my language of choice (at least for certain tasks), but I also enjoy exploring new technologies. In the near future, I plan to expand my knowledge of Rust, Shell scripting, and gain deeper understanding of Linux in general.
+  I'm a backend developer currently working on <b>banking and financial</b> projects using <b>Java and Spring Boot</b>. Java is generally my language of choice (at least for certain tasks), but I also enjoy exploring new technologies. In the near future, I plan to expand my knowledge of Rust, Shell scripting, and gain deeper understanding of Linux in general.
   </samp>
 </p>
 
@@ -38,7 +42,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### IDEs I usually use
+### IDEs I usually use (non-exhaustive)
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
