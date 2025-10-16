@@ -43,6 +43,8 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+&nbsp;
+&nbsp;
 
 ## 💻 Check out some of my repositories
 
@@ -50,3 +52,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsenjanin&repo=pandemic&theme=react&hide_border=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/tsenjanin/pandemic))
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsenjanin&repo=404-revenge-of-missing-endpoint&theme=react&hide_border=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/tsenjanin/404-revenge-of-missing-endpoint))
 
+&nbsp;
+&nbsp;
