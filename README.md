@@ -54,9 +54,8 @@
 
 ## 💻 Check out some of my repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsenjanin&repo=QubitX&theme=react&hide_border=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/tsenjanin/QubitX))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsenjanin&repo=pandemic&theme=react&hide_border=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/tsenjanin/pandemic))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsenjanin&repo=404-revenge-of-missing-endpoint&theme=react&hide_border=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/tsenjanin/404-revenge-of-missing-endpoint))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsenjanin&repo=strand&theme=react&hide_border=true)](https://github.com/tsenjanin/strand)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsenjanin&repo=pandemic&theme=react&hide_border=true)](https://github.com/tsenjanin/pandemic)
 
 &nbsp;
 &nbsp;
