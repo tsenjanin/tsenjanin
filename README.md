@@ -22,32 +22,41 @@
 
 ### Technologies that I know (non-exhaustive)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+<div>
+  <img src="icons/Java-Dark.svg" width="50">
+  <img src="icons/Spring-Dark.svg" width="50" style="margin-left: 10px;">
+  <img src="icons/CS.svg" width="50" style="margin-left: 10px;">
+  <img src="icons/PostgreSQL-Dark.svg" width="50" style="margin-left: 10px;">
+  <img src="icons/Docker.svg" width="50" style="margin-left: 10px;">
+  <img src="icons/Hibernate-Dark.svg" width="50" style="margin-left: 10px;">
+  <img src="icons/MyBatis.svg" width="50" style="margin-left: 10px;">
+</div>
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Hibernate](https://img.shields.io/badge/MyBatis-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+### Planning to learn in detail (non-exhaustive)
 
-### Planning to learn (non-exhaustive)
-
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<div>
+  <img src="icons/Rust.svg" width="50">
+  <img src="icons/Bash-Dark.svg" width="50" style="margin-left: 10px;">
+  <img src="icons/Linux-Dark.svg" width="50" style="margin-left: 10px;">
+</div>
 
 ### Operating systems (non-exhaustive)
 
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<div>
+  <img src="icons/Arch-Dark.svg" width="50">
+  <img src="icons/Windows-Dark.svg" width="50" style="margin-left: 10px;">
+  <img src="icons/Android.png" width="50" style="margin-left: 10px;">
+  <img src="icons/Fedora.png" width="125" style="margin-left: 10px;">
+</div>
 
-### IDEs I usually use (non-exhaustive)
+### IDEs and code editors I usually use (non-exhaustive)
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div>
+  <img src="icons/IntellijIDEA.svg" width="50">
+  <img src="icons/DataGrip.svg" width="50" style="margin-left: 10px;">
+  <img src="icons/WebStorm.svg" width="50" style="margin-left: 10px;">
+  <img src="icons/VSCode-Dark.svg" width="50" style="margin-left: 10px;">
+</div>
 
 &nbsp;
 &nbsp;
