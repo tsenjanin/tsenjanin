@@ -7,7 +7,7 @@
 </p>
 &nbsp;
 
-## 🧑🏻‍💻 Whoami
+## 👾 Whoami
 
 <p align=center>
   <samp>
@@ -18,7 +18,7 @@
 &nbsp;
 &nbsp;
 
-## 🧰 Technologies
+## <img src="icons/robohand.png" width="25"> Technologies
 
 ### Technologies that I know (non-exhaustive)
 
@@ -26,12 +26,18 @@
   <img src="icons/Java-Dark.svg" width="50">
   <img src="icons/Spring-Dark.svg" width="50" style="margin-left: 10px;">
   <img src="icons/CS.svg" width="50" style="margin-left: 10px;">
-  <img src="icons/PostgreSQL-Dark.svg" width="50" style="margin-left: 10px;">
+</div>
+
+&nbsp;
+
+<div>
+  <img src="icons/PostgreSQL-Dark.svg" width="50">
   <img src="icons/Docker.svg" width="50" style="margin-left: 10px;">
   <img src="icons/Hibernate-Dark.svg" width="50" style="margin-left: 10px;">
   <img src="icons/MyBatis.svg" width="50" style="margin-left: 10px;">
 </div>
 
+&nbsp;
 ### Planning to learn in detail (non-exhaustive)
 
 <div>
@@ -40,6 +46,7 @@
   <img src="icons/Linux-Dark.svg" width="50" style="margin-left: 10px;">
 </div>
 
+&nbsp;
 ### Operating systems (non-exhaustive)
 
 <div>
@@ -49,6 +56,7 @@
   <img src="icons/Fedora.png" width="125" style="margin-left: 10px;">
 </div>
 
+&nbsp;
 ### IDEs and code editors I usually use (non-exhaustive)
 
 <div>
@@ -61,7 +69,7 @@
 &nbsp;
 &nbsp;
 
-## 💻 Check out some of my repositories
+## <img src="icons/repo.png" width="25"> Check out some of my repositories
 
 list coming soon
 
